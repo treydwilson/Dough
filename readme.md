@@ -22,9 +22,9 @@ Dough is not currently completed, and should be considered in the alpha phase of
 
 Credits
 -------
-"Clear" sound effect was made by ThemFish of FreeSound.org used under the Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0/)
-http://www.freesound.org/people/themfish/
-http://www.themfish.com/home.php
+"Clear" sound effect was made by ThemFish of FreeSound.org used under the Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0/)  
+http://www.freesound.org/people/themfish/  
+http://www.themfish.com/home.php  
 
-Falling and Landing sound effects were made by SoundCollectah and used under Creative Commons Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/)
+Falling and Landing sound effects were made by SoundCollectah and used under Creative Commons Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/)  
 http://help.freesound.org/people/SoundCollectah/
