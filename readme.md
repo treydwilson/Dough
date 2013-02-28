@@ -14,7 +14,7 @@ Dough is a simple test puzzle game created using the XNA framework.  The game bo
 
 Overview
 --------
-Dough was developed as a simple test of procedural level generation and also as an example of a working XNA game.  Nearly all levels in Dough are random to some degree. The idea is that initially solving the puzzle will be the hard part, but they will still have enough variety to not be easy wins when the levels are replayed.  This does mean that sometimes luck will allow you to quickly clear an easy level, but this is the tradeoff that is made.
+Dough was developed as a simple test of procedural level generation and also as an example of a working XNA game.  Nearly all levels in Dough are random to some degree. The idea is that initially solving the puzzle will be the hard part, but they will still have enough variety to not be easy wins when the levels are replayed.  This does mean that sometimes luck will allow you to quickly clear a level, but this is the tradeoff that is made.
 
 Development
 -----------
